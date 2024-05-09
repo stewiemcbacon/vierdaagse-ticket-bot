@@ -25,7 +25,7 @@
 
 # Gebruik:
 1. Om de bot op te starten, volgt u de volgende stappen:
-2. Ga naar de map waar de bot staat geinstalleerd, en houd `SHIFT` ingedrukt en druk op `Open in terminal`:
+2. Ga naar de map waar de bot staat geinstalleerd, houd `SHIFT` ingedrukt en druk op Rechter muisknop. Druk op `Open in terminal`:
 
 ![afbeelding](https://github.com/stewiemcbacon/vierdaagse-ticket-bot/assets/50327823/91e1aa07-a4e7-40c8-b08b-3c56797aa88b)
 
@@ -37,5 +37,5 @@
 
 ![afbeelding](https://github.com/stewiemcbacon/vierdaagse-ticket-bot/assets/50327823/a4de2f3c-1946-4223-a78b-ceee9a239d88)
 
-# Tot slot
-Zodra er een ticket beschikbaar is, opent de bot automatisch de Ticketpagina in de browser. Het kan zijn dat de bot een keer een ticket mist. Dat maakt niet uit, hij blijft doorzoeken. Wanneer de bot OP de Kooppagina van de ticket zit, krijgt u een medling in de Telegram groep. U weet dat de bot actief is zolang er in de terminal `Attempt: xx` blijft verschijnen. Als u de terminal afsluit, wordt de bot ook afgesloten.
+# (Lees dit ook) Tot slot
+U weet dat de bot actief is zolang er in de terminal `Attempt: xx` blijft verschijnen. Onder de attempt staat het resultaat van die poging. Zodra er een ticket beschikbaar is, opent de bot automatisch de Ticketpagina in de browser. Het kan zijn dat de bot een keer een ticket mist. Dat maakt niet uit. Zolang `Attempt: xx` blijft verschijnen, blijft hij doorzoeken. Wanneer de bot OP de Kooppagina van de ticket zit, krijgt u een medling op Telegram. ALS er te veel errors verschijnen: `Er is iets fout gegaan`, neem dan contact met mij op.  Als u de terminal afsluit, wordt de bot ook afgesloten.
